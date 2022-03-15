@@ -1,4 +1,4 @@
-# nikeshoes
+# Nikeshoes
 Hello, this is fully responsive e commerce website using HTML, CSS, Vanila Javascript
 
 The main feature of this website are:
